@@ -1,6 +1,6 @@
 # StrikeBot--STRESSER-BOTNET-2025
 
-🔥 StrikeKiller Update Announcement [StrikeKiller (https://t.me/StrikerKill)]  🔥
+🔥 StrikeKiller Update Announcement https://t.me/StrikeDDOS 🔥
 
 We’ve just rolled out several exciting updates to enhance your experience with StrikeKiller! 
 
@@ -13,9 +13,9 @@ We’ve just rolled out several exciting updates to enhance your experience with
     ⚙️Special Modes: [CLOUDFLARE, DDOS-GUARD, RANDOM PATH]
 
 - Other Information:  
-✔️ Need Help? Our support team is available 24/7: @StrikerKill
-✉️ Web Tickets: [@StrikeKill (https://t.me/StrikerKill)]  
-➡️ Info: StrikeDDOS (https://t.me/StrikeDDOS)
+✔️ Need Help? Our support team is available 24/7: https://t.me/StrikeDDOS
+✉️ Web Tickets: https://t.me/StrikeDDOS
+➡️ Info: https://t.me/StrikeDDOS
 
 😍 Limited-Time Offer: Use the coupon code KILLTEST2025 to receive an exclusive 10% discount
 
